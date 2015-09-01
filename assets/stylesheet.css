@@ -1,0 +1,19 @@
+html {
+  background-color: #efefef;
+}
+
+.wrapper {}
+
+.row {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  margin: 40px auto;
+  padding: 40px;
+  width: 880px;
+}
+
+#page-title h1 {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 40px;
+  padding-bottom: 10px;
+}
